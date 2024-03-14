@@ -1,0 +1,12 @@
+[{
+    "modid": "${modid}",
+    "name": "${modname}",
+    "description": "Core Mod for GregTech: Limitless",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "logoFile": "",
+    "url": "",
+    "authorList": [MRFELIXSENIOR],
+    "credits": "",
+    "dependencies": []
+}]
